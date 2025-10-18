@@ -2,3 +2,4 @@ Note: in order for this to function you will need to download scryfall default c
 
 Then a simple `cabal run` should be enough to build and run it.
 
+The list of onomatopoeias is largely from here (https://kathytemean.wordpress.com/2009/12/29/onomatopoeia-word-list).
